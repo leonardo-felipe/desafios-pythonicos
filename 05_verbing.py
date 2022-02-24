@@ -19,7 +19,6 @@ def verbing(s):
     else:
         return s
 
-
 def test(f, in_, expected):
     """
     Executa a função f com o parâmetro in_ e compara o resultado com expected.
