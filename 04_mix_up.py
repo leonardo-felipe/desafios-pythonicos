@@ -18,7 +18,6 @@ def mix_up(a, b):
 
     return a_modificado + " " + b_modificado
 
-
 # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
 
 def test(f, in_, expected):
