@@ -30,13 +30,6 @@ def fix_start(s):
         return palavra_nova
 
 
-
-
-
-
-
-
-
 # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
 
 def test(f, in_, expected):
