@@ -9,7 +9,6 @@ Exemplo: donuts(5) retorna 'Number of donuts: 5'
 e donuts(23) retorna 'Number of donuts: many'
 """
 
-
 def donuts(count):
     if count < 10:
         return 'Number of donuts: ' + str(count)
